@@ -37,4 +37,4 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 </a>
 </p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MelekElloumi&layout=compact&theme=algolia"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MelekElloumi&theme=algolia"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MelekElloumi&theme=rogue"/>
