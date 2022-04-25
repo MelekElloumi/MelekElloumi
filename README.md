@@ -32,9 +32,9 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 
 <p align="center">
 <a href="https://github.com/MelekElloumi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MelekElloumi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MelekElloumi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MelekElloumi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MelekElloumi&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
 </a>
 </p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MelekElloumi&layout=compact&theme=rogue"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelekElloumi&layout=compact&theme=rogue"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MelekElloumi&theme=algolia"/>
