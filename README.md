@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Problem%20Solver&center=false&width=500&height=50">
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
-- 🔭&nbsp;I’m currently working on a variety of mini-projects related to my educational program.
-- 📈&nbsp;I’m currently getting into Data Science.
+- 🔭&nbsp;I’m currently searching for a summer internship in Data Science and develop my skills in machine learning.
+- 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
 - 💫&nbsp;My life motto is: **Love for your brother what you love for yourself**
 - ⚡&nbsp;Fun fact: The first video game cheat code is the KONAMI code which so many games and movies have a reference to. It's ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️<ins>START</ins>
