@@ -11,7 +11,7 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 - ⚡&nbsp;Fun fact: The first video game cheat code is the KONAMI code which so many games and movies have a reference to. It's ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️<ins>START</ins>
 
 ---------------------------------------------------------------------------------------------------------------
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200"/>
 
 ### 🛠 &nbsp;**Languages And Tools**
 
