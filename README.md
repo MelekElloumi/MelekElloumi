@@ -24,7 +24,7 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 | DevOps & Test: | ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)&nbsp; ![Selenium](https://img.shields.io/badge/-selenium-05122A?style=flat&logo=selenium)&nbsp; ![GitHub Actions](https://img.shields.io/badge/github%20actions-05122A?style=flat&logo=githubactions)
 | Other: |![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;![RabbitMQ](https://img.shields.io/badge/Rabbitmq-05122A?style=flat&logo=rabbitmq)&nbsp;
 | Tools: |![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=flat&logo=pycharm)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=Eclipse)
-| Media:|![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-05122A?style=flat)&nbsp;![OBS](https://img.shields.io/badge/-OBS-05122A?style=flat)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;![Audacity](https://img.shields.io/badge/Audacity-05122A?style=flat&logo=audacity&logoColor=white)
+| Media: |![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-05122A?style=flat)&nbsp;![OBS](https://img.shields.io/badge/-OBS-05122A?style=flat)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;![Audacity](https://img.shields.io/badge/Audacity-05122A?style=flat&logo=audacity&logoColor=white)
 
 <br>
 
