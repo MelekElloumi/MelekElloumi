@@ -27,11 +27,13 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 | Media: |![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-FFD700?style=flat)&nbsp;![OBS](https://img.shields.io/badge/-OBS-FFD700?style=flat)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-C0C0C0?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;![Audacity](https://img.shields.io/badge/Audacity-C0C0C0?style=flat&logo=audacity&logoColor=white)
 
 <br>
+
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ &nbsp;**My Competitive Programming Accounts**
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/melek_elloumi)&nbsp;[<img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=for-the-badge">](https://www.codingame.com/profile/6af94ec3a70ab2ba8c59e9b1ee66a2f81205394)&nbsp; [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">]([https://www.hackerrank.com/melek_elloumi](https://codeforces.com/profile/Malloumario)) &nbsp; [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">]([https://www.hackerrank.com/melek_elloumi](https://leetcode.com/MelekElloumi/))&nbsp; 
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/melek_elloumi)&nbsp; [<img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=for-the-badge">](https://www.codingame.com/profile/6af94ec3a70ab2ba8c59e9b1ee66a2f81205394)&nbsp; [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">]([https://www.hackerrank.com/melek_elloumi](https://codeforces.com/profile/Malloumario))&nbsp; [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">]([https://www.hackerrank.com/melek_elloumi](https://leetcode.com/MelekElloumi/))&nbsp; 
 
 <br>
+
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ &nbsp;**GitHub Analytics**
 
