@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Problem%20Solver&center=false&width=500&height=50">
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
-- 🔭&nbsp;I’m currently working as a Metaverse intern in Talan.
+- 🔭&nbsp;I’m currently working as a Metaverse intern in Talan and learning more about deep learning on the side
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
 - 💫&nbsp;My life motto is: **Love for your brother what you love for yourself**
