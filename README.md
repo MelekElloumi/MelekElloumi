@@ -1,10 +1,11 @@
 ## Hello there 👋
 [![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melek-elloumi/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melek.elloumi@insat.ucar.tn) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Problem%20Solver&center=false&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
-- 🔭&nbsp;I’m currently working as a Metaverse intern in Talan and learning more about deep learning on the side
+- 🔭&nbsp;I finished my Metaverse internship at Talan and I'm now searching for an End of Study intership.
+- 🏆&nbsp;I am the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
 - 💫&nbsp;My life motto is: **Love for your brother what you love for yourself**
@@ -22,7 +23,7 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 | Data Science: | ![Keras](https://img.shields.io/badge/Keras-FFD700?style=flat&logo=Keras&logoColor=white)&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-C0C0C0?style=flat&logo=TensorFlow&logoColor=white)&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-CD7F32?style=flat&logo=OpenCV&logoColor=white)&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-CD7F32?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 | Database: |![MySQL](https://img.shields.io/badge/mysql-FFD700?style=flat&logo=mysql&logoColor=white)&nbsp;![SQLite](https://img.shields.io/badge/sqlite-FFD700?style=flat&logo=sqlite&logoColor=white)&nbsp;![Postgres](https://img.shields.io/badge/postgres-C0C0C0?style=flat&logo=postgresql&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-CD7F32?style=flat&logo=mongodb&logoColor=white)
 | DevOps & Test: |![Selenium](https://img.shields.io/badge/-selenium-FFD700?style=flat&logo=selenium&logoColor=white)&nbsp; ![GitHub Actions](https://img.shields.io/badge/github%20actions-C0C0C0?style=flat&logo=githubactions&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/docker-CD7F32?style=flat&logo=docker&logoColor=white)&nbsp;
-| Other: |![Unity](https://img.shields.io/badge/Unity-FFD700?style=flat&logo=unity&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![RabbitMQ](https://img.shields.io/badge/Rabbitmq-C0C0C0?style=flat&logo=rabbitmq&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-CD7F32?style=flat&logo=linux&logoColor=white)&nbsp;
+| Other: |![Unity](https://img.shields.io/badge/Unity-FFD700?style=flat&logo=unity&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![RabbitMQ](https://img.shields.io/badge/Rabbitmq-C0C0C0?style=flat&logo=rabbitmq&logoColor=white)&nbsp;![Talend](https://img.shields.io/badge/-Talend-CD7F32?style=flat)&nbsp;![Linux](https://img.shields.io/badge/Linux-CD7F32?style=flat&logo=linux&logoColor=white)&nbsp;
 | Tools: |![PyCharm](https://img.shields.io/badge/pycharm-FFD700?style=flat&logo=pycharm&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-C0C0C0?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-C0C0C0?style=flat&logo=Eclipse&logoColor=white)
 | Media: |![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-FFD700?style=flat)&nbsp;![OBS](https://img.shields.io/badge/-OBS-FFD700?style=flat)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-C0C0C0?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;![Audacity](https://img.shields.io/badge/Audacity-C0C0C0?style=flat&logo=audacity&logoColor=white)
 
