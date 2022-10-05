@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
-- 🔭&nbsp;I finished my Metaverse internship at Talan and I'm now searching for an End of Study intership.
+- 🔭&nbsp;I finished my Metaverse internship at Talan and I'm now searching for an End of Study internship in Data Science in France
 - 🏆&nbsp;I am the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
@@ -31,7 +31,7 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ &nbsp;**My Competitive Programming Accounts**
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/melek_elloumi)&nbsp; [<img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=for-the-badge">](https://www.codingame.com/profile/6af94ec3a70ab2ba8c59e9b1ee66a2f81205394)&nbsp; [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">]([https://www.hackerrank.com/melek_elloumi](https://codeforces.com/profile/Malloumario))&nbsp; [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">]([https://www.hackerrank.com/melek_elloumi](https://leetcode.com/MelekElloumi/))&nbsp; 
+[<img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=for-the-badge">](https://www.codingame.com/profile/6af94ec3a70ab2ba8c59e9b1ee66a2f81205394)&nbsp; [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/melek_elloumi)&nbsp;[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">]([https://www.hackerrank.com/melek_elloumi](https://codeforces.com/profile/Malloumario))&nbsp; [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">]([https://www.hackerrank.com/melek_elloumi](https://leetcode.com/MelekElloumi/))&nbsp; 
 
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ &nbsp;**GitHub Analytics**
