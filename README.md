@@ -1,3 +1,6 @@
+
+[![Github cover](https://i.imgur.com/3hA7wrV.jpeg)](https://www.linkedin.com/in/melek-elloumi/)
+
 ## Hello there 👋
 [![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melek-elloumi/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melek.elloumi@insat.ucar.tn) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
 
@@ -12,8 +15,6 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 - ⚡&nbsp;Fun fact: The first video game cheat code is the KONAMI code which so many games and movies have a reference to. It's ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️<ins>START</ins>
 
 ---------------------------------------------------------------------------------------------------------------
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200"/>
-
 ### 🛠 &nbsp;**Languages And Tools**
 
 |  |  |
@@ -31,7 +32,7 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ &nbsp;**My Competitive Programming Accounts**
-[<img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=for-the-badge">](https://www.codingame.com/profile/6af94ec3a70ab2ba8c59e9b1ee66a2f81205394)&nbsp; [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/melek_elloumi)&nbsp;[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">]([https://www.hackerrank.com/melek_elloumi](https://codeforces.com/profile/Malloumario))&nbsp; [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">]([https://www.hackerrank.com/melek_elloumi](https://leetcode.com/MelekElloumi/))&nbsp; 
+[<img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=for-the-badge">](https://www.codingame.com/profile/6af94ec3a70ab2ba8c59e9b1ee66a2f81205394)&nbsp; [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">]([https://www.hackerrank.com/melek_elloumi](https://leetcode.com/MelekElloumi/))&nbsp; [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/melek_elloumi)&nbsp;[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">]([https://www.hackerrank.com/melek_elloumi](https://codeforces.com/profile/Malloumario))&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ &nbsp;**GitHub Analytics**
