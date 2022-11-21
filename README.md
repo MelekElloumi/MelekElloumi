@@ -8,7 +8,7 @@
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
 - 🔭&nbsp;I finished my Metaverse internship at Talan and I'm now searching for an End of Study internship in Data Science
-- 🎯&nbsp;I am currently working on a Blockchain project
+- 🎯&nbsp;I am currently working on a Blockchain project and learning MLOps Specialization in Coursera
 - 🏆&nbsp;My team was the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
