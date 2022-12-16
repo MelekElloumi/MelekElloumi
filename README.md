@@ -1,6 +1,3 @@
-
-[![Github cover](https://i.imgur.com/3hA7wrV.jpeg)](https://www.linkedin.com/in/melek-elloumi/)
-
 ## Hello there 👋
 [![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melek-elloumi/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melek.elloumi@insat.ucar.tn) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
 
