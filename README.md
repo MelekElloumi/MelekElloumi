@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
-- 🔭&nbsp;I am passing my exams this week, wish me luck <3
-- 🎯&nbsp;I am currently working on a Blockchain project and learning MLOps Specialization in Coursera
+- 🔭&nbsp;I finished my final exams. PFE loading ...
+- 🎯&nbsp;I am planning to learn Deep Reinforced learning properly.
 - 🏆&nbsp;My team was the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
@@ -21,8 +21,8 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 | Python Libraries: |![Flask](https://img.shields.io/badge/Flask-FFD700?style=flat&logo=flask&logoColor=white)&nbsp;![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=flat&logo=python&logoColor=white)&nbsp;![Pytest](https://img.shields.io/badge/Pytest-FFD700?style=flat&logo=python&logoColor=white)&nbsp;![NumPy](https://img.shields.io/badge/Numpy-C0C0C0?style=flat&logo=numpy&logoColor=white)&nbsp;![Pandas](https://img.shields.io/badge/Pandas-C0C0C0?style=flat&logo=pandas&logoColor=white)&nbsp;
 | Data Science: | ![Keras](https://img.shields.io/badge/Keras-FFD700?style=flat&logo=Keras&logoColor=white)&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-C0C0C0?style=flat&logo=TensorFlow&logoColor=white)&nbsp;![scikit-learn](https://img.shields.io/badge/Scikit--learn-C0C0C0?style=flat&logo=scikit-learn&logoColor=white)&nbsp;![Power Bi](https://img.shields.io/badge/Power%20BI-C0C0C0?style=flat&logo=powerbi&logoColor=white)&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-CD7F32?style=flat&logo=OpenCV&logoColor=white)&nbsp;![Nvidia TAO](https://img.shields.io/badge/Nvidia%20TAO-CD7F32?style=flat&logo=nVIDIA&logoColor=white)
 | Database: |![MySQL](https://img.shields.io/badge/Mysql-FFD700?style=flat&logo=mysql&logoColor=white)&nbsp;![SQLite](https://img.shields.io/badge/Sqlite-FFD700?style=flat&logo=sqlite&logoColor=white)&nbsp;![Postgres](https://img.shields.io/badge/Postgres-C0C0C0?style=flat&logo=postgresql&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-CD7F32?style=flat&logo=mongodb&logoColor=white)
-| DevOps & Test: |![Selenium](https://img.shields.io/badge/-Selenium-FFD700?style=flat&logo=selenium&logoColor=white)&nbsp; ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-C0C0C0?style=flat&logo=githubactions&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/Docker-CD7F32?style=flat&logo=docker&logoColor=white)&nbsp;
-| Other: |![Unity](https://img.shields.io/badge/Unity-FFD700?style=flat&logo=unity&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![RabbitMQ](https://img.shields.io/badge/Rabbitmq-C0C0C0?style=flat&logo=rabbitmq&logoColor=white)&nbsp;![Talend](https://img.shields.io/badge/-Talend-CD7F32?style=flat)&nbsp;![Linux](https://img.shields.io/badge/Linux-CD7F32?style=flat&logo=linux&logoColor=white)&nbsp;
+| DevOps: |![Docker](https://img.shields.io/badge/Docker-FFD700?style=flat&logo=docker&logoColor=white)&nbsp;![Azure](https://img.shields.io/badge/Azure_DevOps-C0C0C0?style=flat&logo=azure-devops&logoColor=white)&nbsp;![Github Actions](https://img.shields.io/badge/GitHub_Actions-C0C0C0?style=flat&logo=github-actions&logoColor=white)&nbsp;![Helm](https://img.shields.io/badge/Helm-C0C0C0?style=flat&logo=Helm&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-C0C0C0?style=flat&logo=kubernetes&logoColor=white)&nbsp;![Prometheus](https://img.shields.io/badge/prometheus-C0C0C0?style=flat&logo=prometheus&logoColor=white)&nbsp;
+| Other: |![Unity](https://img.shields.io/badge/Unity-FFD700?style=flat&logo=unity&logoColor=white)&nbsp;![Selenium](https://img.shields.io/badge/-Selenium-FFD700?style=flat&logo=selenium&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![RabbitMQ](https://img.shields.io/badge/Rabbitmq-C0C0C0?style=flat&logo=rabbitmq&logoColor=white)&nbsp;![Talend](https://img.shields.io/badge/-Talend-CD7F32?style=flat)&nbsp;![Linux](https://img.shields.io/badge/Linux-CD7F32?style=flat&logo=linux&logoColor=white)&nbsp;
 | Tools: |![PyCharm](https://img.shields.io/badge/Pycharm-FFD700?style=flat&logo=pycharm&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-C0C0C0?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-C0C0C0?style=flat&logo=Eclipse&logoColor=white)
 | Media: |![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-FFD700?style=flat)&nbsp;![OBS](https://img.shields.io/badge/-OBS-FFD700?style=flat)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-C0C0C0?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;![Audacity](https://img.shields.io/badge/Audacity-C0C0C0?style=flat&logo=audacity&logoColor=white)
 
@@ -41,8 +41,9 @@ My name is Melek Elloumi. I am a Software Engineering Student at INSAT.
 </a>
 </p>
 <p align="center">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MelekElloumi&layout=compact&theme=rogue"/>
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=MelekElloumi&theme=algolia"/>
   </p>
   <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MelekElloumi&theme=algolia"/>
   </p>
+	
