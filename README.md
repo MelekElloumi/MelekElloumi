@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
-- 🔭&nbsp;I finished my final exams. PFE loading ...
+- 🔭&nbsp;I am currently an AI Research Intern at Efrei Paris.
 - 🎯&nbsp;I am planning to learn Deep Reinforced learning properly.
 - 🏆&nbsp;My team was the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
