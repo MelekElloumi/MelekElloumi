@@ -5,7 +5,7 @@
 My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
 
 - 🔭&nbsp;I am currently an AI Research Intern at Efrei Paris.
-- 🎯&nbsp;I am planning to learn Deep Reinforced learning properly.
+- 🎯&nbsp;I am learning Deep Reinforced learning with Udacity nanodegree.
 - 🏆&nbsp;My team was the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
