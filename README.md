@@ -1,11 +1,11 @@
 ## Hello there 👋
 [![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melek-elloumi/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melek.elloumi@insat.ucar.tn) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data%20Science%20Enthusiast;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
-My name is Melek Elloumi. I am a Software Engineering Student at INSAT. 
+<img src="https://readme-typing-svg.herokuapp.com?lines=PhD+Student;Software+Engineer;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
+My name is Melek Elloumi. I am a PhD student at Efrei Research Lab. 
 
-- 🔭&nbsp;I am currently an AI Research Intern at Efrei Paris working on a deep computer vision model for Badminton court detection.
-- 🎯&nbsp;I am learning Deep Reinforced learning with Udacity nanodegree.
+- 🔭&nbsp;I am currently working on my PhD thesis in computer vision.
+- 🎯&nbsp;I recently graduated from INSAT as a Software Engineer.
 - 🏆&nbsp;My team was the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
