@@ -27,4 +27,4 @@ This lets me use AI responsibly and the line isn't that blurry for me.
 - If you're a business owner, I accept Freelance jobs if you require my expertise (I have an auto-entrepreneur status in France).
 - My GitHub repos are mostly my previous student projects. But I do have some personal ones that I hope they could help others like they helped me.
 
-📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/melek-elloumi/) | 🌐 &nbsp;[Personal Website](https://melekelloumi.com/)
+📫&nbsp;[LinkedIn](https://www.linkedin.com/in/melek-elloumi/) | 🌐&nbsp;[Personal Website](https://melekelloumi.com/)
