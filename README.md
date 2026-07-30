@@ -23,7 +23,7 @@ This lets me use AI responsibly and the line isn't that blurry for me.
 
 ### Let's Connect
 
-- I'm open for discussions on AI, Ethics or so feel free to reach out to me on LinkedIn. 
+- I'm open for discussions on AI, ethics in tech or engineering in general, so feel free to reach out to me on LinkedIn. 
 - If you're a business owner, I accept Freelance jobs if you require my expertise (I have an auto-entrepreneur status in France).
 - My GitHub repos are mostly my previous student projects. But I do have some personal ones that I hope they could help others like they helped me.
 
