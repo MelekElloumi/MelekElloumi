@@ -5,10 +5,15 @@ Software Engineer | Computer Vision & AI Research Background | Building consumer
 I love automation. That's what drew me to coding since 2017. It's **THE tool** that fixes a lot of repetitive problems, at least from a software point of view.
 
 Today, Agentic AI is a powerful addition to my toolkit.
+
 I tried vibe-coding. Building fast is a great tool for certain context like MVPs, hackathons, personal software.
+
 But for production systems? Engineering principles, doing what's hard over what's easy, fundamental values... these still stands today. 
+
 They can coexist with AI. It's just the line is very blurry.
+
 I know my skills. I know what I can do best. I have strong principles that I follow no matter what. 
+
 This lets me use AI responsibly and the line isn't that blurry for me.
 
 **How I work:**
